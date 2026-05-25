@@ -55,3 +55,7 @@ This analysis helps businesses:
 - Personalize campaigns
 - Increase customer retention
 - Optimize marketing efforts
+
+
+## DATASET: 
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
